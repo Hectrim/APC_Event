@@ -1,0 +1,17 @@
+author = "Hectrim";
+onLoadName = "APC Department vs Department";
+onLoadMission = "A event mission developed by Hectrim";
+joinUnassigned = 1;
+respawn = BASE;
+respawndelay = 5;
+disabledAI = true;
+disableChannels[]={0,1,2};
+enableDebugConsole = 1;
+respawnDialog = 0;
+
+class Header
+{
+	gameType = RPG;
+	minPlayers = 1;
+	maxPlayers = 30;
+};
